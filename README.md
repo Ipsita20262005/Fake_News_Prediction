@@ -62,6 +62,22 @@ The project uses:
 * Deep Learning Models
 * Streamlit Web Application
 
+
+ 🚀 Live Demo
+
+🔗 https://fakenewsprediction-bypcfqzvadveqzfzvx6tkd.streamlit.app/
+
+## Features
+
+- Fake News Detection
+- NLP Text Processing
+- TF-IDF Vectorization
+- Logistic Regression Model
+- Streamlit Web Application
+- Cloud Deployment
+
+
+
 ## Author
 
 Ipsita Chowdhury
